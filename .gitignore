@@ -1,0 +1,5 @@
+# VisualStudioCode Folder
+.vscode/
+
+# Python Cache
+__pycache__/
