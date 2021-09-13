@@ -7,7 +7,7 @@ def searchParentInNestedObj (nested_obj, parent_key, parent_identation, index_pa
       if id == parent_key and nested_obj[id]["identation"] == parent_identation:
         parent_obj = value
         return parent_obj
-      if isinstance(value, dict) and id != "parent":
+      if isinstance(value, dict) and id != "parent" and any(value):
         hiking_obj = searchParentInNestedObj(value, parent_key, parent_identation, index_path + f"['{id}']")
     return hiking_obj
 
