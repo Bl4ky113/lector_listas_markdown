@@ -1,5 +1,5 @@
-# VisualStudioCode Folder
-.vscode/
+# Workspace File
+.vscode/*.code-workspace
 
 # Python Cache
 __pycache__/
