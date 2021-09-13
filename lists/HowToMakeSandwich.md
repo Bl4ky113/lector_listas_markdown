@@ -7,6 +7,13 @@
   - [ ] Tomate
   - [ ] Carne Preferida
   - [ ] Queso
+    - [ ] Cheddar
+    - [ ] Campesino
+      - [ ] De vaca
+      - [ ] De cabra
+      - [ ] De Oveja
+    - [ ] Americano
+    - [ ] Azul
   - Otros a tu preferencia
 
 - [ ] Lavar bien la lechuga y los tomates, & otros vegetales de tu preferencia.
